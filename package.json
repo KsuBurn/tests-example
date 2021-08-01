@@ -1,0 +1,22 @@
+{
+  "name": "tests-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KsuBurn/tests-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KsuBurn/tests-example/issues"
+  },
+  "homepage": "https://github.com/KsuBurn/tests-example#readme",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
